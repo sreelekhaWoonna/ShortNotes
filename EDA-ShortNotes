@@ -1,0 +1,5 @@
+1) Data cleaning  
+      > Drop Duplicates 
+        Pseudo Code : AppUnI_df.drop_duplicates(subset=None, keep='first', inplace=True)
+                      AppLaun_df['UserId'].value_counts()
+      > Consistency on the naming convention 
